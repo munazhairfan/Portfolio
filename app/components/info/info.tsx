@@ -17,7 +17,7 @@ export default function Info(){
                 Anticipating</p>
                 <br></br>
                 <h6 className="text-2xl underline">Intermediate:</h6>
-                <p>Usman Allah Wala Women\'s College <br></br>
+                <p>Usman Allah Wala Women&apos;s College <br></br>
                 Jun 2023</p>
                 <br></br>
                 <h6 className="text-2xl underline">Matriculation:</h6>
