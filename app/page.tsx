@@ -17,10 +17,10 @@ export default function Home() {
         <div className="w-4/6 content-center justify-items-center">
           <h1 className="font-bold text-4xl text-center">About Me</h1>
           <p className="text-center">
-            Hi! I\'m a CS student at Virtual University, currently pursuing ADP.
-            <br></br>I have a strong passion for coding and I\'m honing my skills
-            at Governor House IT Program.<br></br> When I\'m not immersed in the
-            world of programming,<br></br> you\'ll find me expressing my
+            Hi! I&apos;m a CS student at Virtual University, currently pursuing ADP.
+            <br></br>I have a strong passion for coding and I&apos;m honing my skills
+            at Governor House IT Program.<br></br> When I&apos;m not immersed in the
+            world of programming,<br></br> you&apos;ll find me expressing my
             creativity through painting.
           </p>
           <Link href="/info">
